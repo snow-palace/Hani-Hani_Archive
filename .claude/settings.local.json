@@ -11,7 +11,27 @@
       "Bash(npm config *)",
       "Bash(node *)",
       "Bash(npm list *)",
-      "Bash(npx --version)"
+      "Bash(npx --version)",
+      "Bash(identify images/charData/portraits/art_yumu.webp images/charData/portraits/art_ban.webp)",
+      "Bash(powershell -Command \"Add-Type -AssemblyName System.Drawing; [System.Drawing.Image]::FromFile\\('D:\\\\\\\\GitHub\\\\\\\\hani-archive\\\\\\\\images\\\\\\\\charData\\\\\\\\portraits\\\\\\\\art_yumu.webp'\\) | Select-Object Width, Height\")",
+      "Bash(python3 *)",
+      "Bash(python *)",
+      "Bash(where python *)",
+      "Bash(where python3 *)",
+      "Bash(winget install *)",
+      "Bash(cmd *)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/Administrator/AppData/Local/Programs/**)",
+      "Bash(powershell *)",
+      "Bash(/tmp/python-installer.exe *)",
+      "Bash(choco --version)",
+      "Bash(export PATH=\"/c/Program Files/Python312:/c/Program Files/Python312/Scripts:$PATH\")",
+      "Bash(pip --version)",
+      "Bash(npm root *)",
+      "Bash(rm -f \"C:/Users/Administrator/.agents/skills/ui-ux-pro-max/scripts\" \"C:/Users/Administrator/.agents/skills/ui-ux-pro-max/data\")",
+      "Bash(cp -r /tmp/skill-repo/src/ui-ux-pro-max/scripts \"C:/Users/Administrator/.agents/skills/ui-ux-pro-max/\")",
+      "Bash(cp -r /tmp/skill-repo/src/ui-ux-pro-max/data \"C:/Users/Administrator/.agents/skills/ui-ux-pro-max/\")",
+      "Bash(start *)"
     ]
   }
 }
